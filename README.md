@@ -1,8 +1,10 @@
-Klipper3d Config files for Voxelab Aquila Running SKR mini E3 V3.0 board
+Klipper3d Config files for 
 
-Klipper3d Config files for Kingroon KP3S Running SKR Pico board
+-Voxelab Aquila Running SKR mini E3 V3.0 board
+-Kingroon KP3S Running SKR Pico board
+-Kingroon KP3S Running SKR Turbo V1.4 board 
 
-Klipper3d Config files Kingroon KP3S Running SKR Turbo V1.4 board 
+
 
 Purple Klipper Screen Theme See KlipperScreen Theme folder for intsall instructions.
 
